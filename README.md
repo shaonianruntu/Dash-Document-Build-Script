@@ -65,7 +65,5 @@ Enjoy it!
 
 ## Reference
 
-[pytorch的zeal文档， Ubuntu](https://www.jianshu.com/p/dfcd79fb635d)
-
-
-https://xmfbit.github.io/2017/08/26/doc2dash-usage/
+- [pytorch的zeal文档， Ubuntu](https://www.jianshu.com/p/dfcd79fb635d)
+- [doc2dash——制作自己的dash文档](https://xmfbit.github.io/2017/08/26/doc2dash-usage/)
