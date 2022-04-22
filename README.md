@@ -1,4 +1,4 @@
-# pytorch_docset
+# Pytorch Dash Docset Build Script
 
 The dash documents of pytorch produced by doc2dash, which can be used in [dash](https://kapeli.com/dash) and [zeal](https://zealdocs.org).
 
